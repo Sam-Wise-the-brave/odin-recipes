@@ -37,3 +37,8 @@
 a:visited { 
     color:black 
 }
+
+.chef{
+    margin: auto;
+    display: block;
+}
