@@ -10,6 +10,7 @@
     color: white;
     padding: 1em;
 }
+
 .recipes{
     text-align: center;
     padding-top: 50px;
@@ -25,4 +26,14 @@
     padding-top: 50px;
     padding-bottom: 50px;
     font-size: small;
+}
+
+.option{
+    height: 100px;
+    width: 300px;
+    font-size: large;
+}
+
+a:visited { 
+    color:black 
 }
